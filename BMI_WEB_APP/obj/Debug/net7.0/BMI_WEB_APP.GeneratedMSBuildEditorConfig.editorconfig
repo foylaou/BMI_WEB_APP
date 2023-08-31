@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BMI_WEB_APP
 build_property.RootNamespace = BMI_WEB_APP
-build_property.ProjectDir = C:\Users\s2250\RiderProjects\BMI_WEB_APP\BMI_WEB_APP\
+build_property.ProjectDir = C:\Users\s2250\RiderProjects\BMI_WEB_APP\BMI_WEB_APP\BMI_WEB_APP\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\s2250\RiderProjects\BMI_WEB_APP\BMI_WEB_APP
+build_property.MSBuildProjectDirectory = C:\Users\s2250\RiderProjects\BMI_WEB_APP\BMI_WEB_APP\BMI_WEB_APP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/Home/Index.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/Home/Privacy.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/Home/view.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/Home/view.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/Shared/Error.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/_ViewImports.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/_ViewStart.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/Views/Shared/_Layout.cshtml]
+[C:/Users/s2250/RiderProjects/BMI_WEB_APP/BMI_WEB_APP/BMI_WEB_APP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uz7211xgq1

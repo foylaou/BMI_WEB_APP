@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s2250\\RiderProjects\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP.csproj",
+      "projectUniqueName": "C:\\Users\\s2250\\RiderProjects\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP.csproj",
       "projectName": "BMI_WEB_APP",
-      "projectPath": "C:\\Users\\s2250\\RiderProjects\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP.csproj",
+      "projectPath": "C:\\Users\\s2250\\RiderProjects\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP.csproj",
       "packagesPath": "C:\\Users\\s2250\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s2250\\RiderProjects\\BMI_WEB_APP\\BMI_WEB_APP\\obj\\",
+      "outputPath": "C:\\Users\\s2250\\RiderProjects\\BMI_WEB_APP\\BMI_WEB_APP\\BMI_WEB_APP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s2250\\AppData\\Roaming\\NuGet\\NuGet.Config",
