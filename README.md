@@ -4,5 +4,6 @@ ASP.net練習
 <br>
 部屬於Azure
 <br>
-<a herf=bmiwebapp.azurewebsites.net>按我前往</a>
+[範例](<http://bmiwebapp.azurewebsites.net> "Title")
+
 
