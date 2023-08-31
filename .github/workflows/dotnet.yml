@@ -1,14 +1,17 @@
 # This workflow will build a .NET project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
 
+# workflow 名稱
 name: .NET
 
+# 什麼情況下觸發 workflow
 on:
+# 對於 main branch 建立 Branch 與 Pull Request 時觸發 workflow 
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
+# Job 可以循序或平行執行
 jobs:
   build:
 
