@@ -1,0 +1,13 @@
+﻿@model BmiCalculator
+<h2>BMI 計算機</h2>
+
+<form method="post">
+    <input asp-for="Height" placeholder="請輸入身高(公尺)" /> <br />
+    <input asp-for="Weight" placeholder="請輸入體重(公斤)" /> <br />
+    <button type="submit">計算</button>
+</form>
+
+@if (Model?.Result != null)
+{
+    <p>您的BMI為: @Model.Result</p>
+}

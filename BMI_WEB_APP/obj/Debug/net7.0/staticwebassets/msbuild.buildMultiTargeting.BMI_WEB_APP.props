@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BMI_WEB_APP.props" />
+</Project>
