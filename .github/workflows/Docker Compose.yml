@@ -18,7 +18,8 @@ jobs:
         run: docker build -t myapp:latest .
 
       - name: Log in to Docker Hub
-        run: docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
+        run: docker login -u $${{ secrets.DOCKER_USERNAME }} -p $${{ secrets.DOCKER_PASSWORD }}
+
 
       - name: Push Docker image
         run: docker push myapp:latest
