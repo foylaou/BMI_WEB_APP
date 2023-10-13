@@ -1,6 +1,7 @@
-version: '3'
+version: '3.4'
 services:
-  web:
-    image: nginx:latest
+  webapp:
+    image: mcr.microsoft.com/dotnet/aspnet:6.0
     ports:
       - "80:80"
+
